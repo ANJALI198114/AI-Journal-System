@@ -1,5 +1,5 @@
 # Deplyment Link
-https://vercel.com/anjali-aggarwals-projects/ai-journal-system/HozEbKzrLTobHimdbKRReRadeb1N
+https://ai-journal-system-b5xoyvxb8-anjali-aggarwals-projects.vercel.app/
 
 # AI-Assisted Journal System
 
